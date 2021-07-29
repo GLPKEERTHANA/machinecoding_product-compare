@@ -1,0 +1,45 @@
+.feature {
+    display: flex;
+    width: 80%;
+    flex-wrap: wrap;
+    background-color: aliceblue;
+}
+
+.summaryEle{
+    display: flex;
+    width:33%;
+    justify-content: space-between;
+    background-color:white;
+}
+
+.titleNode {
+    display: flex;
+    width: 80%;
+    background-color: blue;
+}
+.imageWrapper{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+}
+.image{
+    height:33%;
+    width : 200px;
+}
+
+.featureEle{
+    display: flex;
+    width:33%;
+    justify-content: space-between;
+    align-items: center;
+}
+.imgEle{
+    display: flex;
+    width:100%;
+    justify-content: space-between;
+}
+.labelEle{
+    display: flex;
+    width:33%;
+    align-items: center;
+}
